@@ -1,4 +1,6 @@
-# security-research-commit-anomaly-detection
+# security-research-commit-anomaly-detectioni
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/security-research-commit-anomaly-detection)](https://api.reuse.software/info/github.com/SAP-samples/security-research-commit-anomaly-detection)
+
 ## Anomaly detection in software development process using Graph Neural Networks based on version history metadata and collaboration graphs
 
 This Repo uses the GraphRepo library (see the original Readme below) to generate graphs from Github repositories.
