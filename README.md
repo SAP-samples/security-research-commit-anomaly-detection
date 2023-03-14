@@ -1,4 +1,4 @@
-# security-research-commit-anomaly-detectioni
+# Detecting Backdoors in Collaboration Graphs of Software Repositories
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/security-research-commit-anomaly-detection)](https://api.reuse.software/info/github.com/SAP-samples/security-research-commit-anomaly-detection)
 
 ## Anomaly detection in software development process using Graph Neural Networks based on version history metadata and collaboration graphs
