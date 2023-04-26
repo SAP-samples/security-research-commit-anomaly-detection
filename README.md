@@ -53,6 +53,27 @@ pip3 install -r requirements.txt
 - Martin Härterich
 - Tom Ganz
 
+## Cite
+
+```
+@inproceedings{10.1145/3577923.3583657,
+author = {Ganz, Tom and Ashraf, Inaam and H\"{a}rterich, Martin and Rieck, Konrad},
+title = {Detecting Backdoors in Collaboration Graphs of Software Repositories},
+year = {2023},
+isbn = {9798400700675},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3577923.3583657},
+doi = {10.1145/3577923.3583657},
+abstract = {Software backdoors pose a major threat to the security of computer systems. Minor modifications to a program are often sufficient to undermine security mechanisms and enable unauthorized access to a system. The direct approach of detecting backdoors using static or dynamic program analysis is a daunting task that becomes increasingly futile with the attacker's capabilities. As a remedy, we introduce an orthogonal strategy for the detection of software backdoors. Instead of searching for concealed functionality in program code, we propose to analyze how a software has been developed and locate clues for malicious activities in its version history, such as in a Git repository. To this end, we model the version history as a collaboration graph that reflects how, when and where developers have committed changes to the software. We develop a method for anomaly detection using graph neural networks that builds on this representation and is able to detect spatial and temporal anomalies in the development process. % We evaluate our approach using a collection of real-world backdoors added to Github repositories. Compared to previous work, our method identifies a significantly larger number of backdoors with a low false-positive rate. While our approach cannot rule out the presence of software backdoors, it provides an alternative detection strategy that complements existing work focused only on program analysis.},
+booktitle = {Proceedings of the Thirteenth ACM Conference on Data and Application Security and Privacy},
+pages = {189–200},
+numpages = {12},
+keywords = {software repositories, neural networks, anomaly detection},
+location = {Charlotte, NC, USA},
+series = {CODASPY '23}
+}
+```
 ## Contributing
 If you wish to contribute code, offer fixes or improvements, please send a pull request. Due to legal reasons, contributors will be asked to accept a DCO when they create the first pull request to this project. This happens in an automated fashion during the submission process. SAP uses [the standard DCO text of the Linux Foundation](https://developercertificate.org/).
 
