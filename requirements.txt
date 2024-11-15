@@ -102,7 +102,7 @@ torch-spline-conv==1.2.0
 torchray==1.0.0.2
 torchvision==0.8.2
 tornado==6.4.1
-tqdm==4.54.1
+tqdm==4.66.3
 traitlets==5.0.5
 typing-extensions==3.7.4.3
 urllib3==1.26.19
