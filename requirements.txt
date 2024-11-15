@@ -73,7 +73,7 @@ pycocotools==2.0.2
 pycparser==2.20
 pydot==1.4.1
 Pygments==2.15.0
-pymongo==3.11.2
+pymongo==4.6.3
 pyparsing==2.4.7
 pyrsistent==0.17.3
 python-dateutil==2.8.1
