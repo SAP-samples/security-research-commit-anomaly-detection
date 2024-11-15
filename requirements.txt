@@ -109,5 +109,5 @@ urllib3==1.26.19
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
-zipp==3.4.0
+zipp==3.19.1
 wheel
